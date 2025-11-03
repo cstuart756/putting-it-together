@@ -54,6 +54,17 @@ Branch: main
 Folder: / (root)
 
 Click Save — your live site will be available at:
+🧪 Testing
+
+✅ All navigation links verified
+
+✅ Modal form tested for open/close interaction
+
+✅ Contact form structure validated
+
+✅ Responsive design tested on multiple devices
+
+✅ HTML validated with W3C Validator
 "# putting-it-together" 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
