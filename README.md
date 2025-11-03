@@ -1,3 +1,59 @@
+💻 Mei Wong | Software Developer Portfolio
+
+A personal portfolio website built to showcase Mei Wong’s skills, projects, and contact information.
+This responsive site serves as a professional online presence, introducing Mei as a passionate and creative Software Developer who builds engaging, user-friendly digital experiences.
+
+🌟 Overview
+
+The Mei Wong Portfolio project highlights both technical and design skills.
+It presents Mei’s professional profile, portfolio projects, and contact information in a clean, visually appealing layout.
+The design focuses on clarity, accessibility, and responsiveness, making it easy for potential employers or collaborators to learn more and get in touch.
+
+🧩 Features
+
+✅ Responsive Navbar — Smooth navigation that adapts to all screen sizes
+✅ Hero Section — Engaging introduction with a call-to-action modal for newsletter subscription
+✅ About Section — Detailed professional summary and responsive image layout
+✅ Portfolio Section — Showcases multiple project cards with titles, descriptions, and preview buttons
+✅ Contact Section — Interactive contact form for inquiries and collaborations
+✅ Bootstrap Modal Form — Newsletter subscription pop-up for visitors
+✅ Clean, Modern UI — Consistent color scheme and typography for a professional look
+✅ Fully Responsive — Optimized for mobile, tablet, and desktop devices
+
+💻 Technologies Used
+
+HTML5 — Semantic page structure
+
+CSS3 — Custom styling for components and layout
+
+Bootstrap 5.3 — Grid system, modals, and responsive utilities
+
+JavaScript (Bootstrap Bundle) — For interactive elements like the modal
+
+Font Awesome (optional) — For iconography (if added later)
+
+🧠 Purpose
+
+This project serves as a personal branding portfolio for software developers.
+It’s designed to highlight technical skills, project experience, and professionalism while encouraging visitors to connect or subscribe for updates.
+
+⚙️ Deployment
+
+To deploy your portfolio using GitHub Pages:
+
+Push your project to a GitHub repository.
+
+Go to Settings → Pages.
+
+Under Build and Deployment, choose:
+
+Source: Deploy from a branch
+
+Branch: main
+
+Folder: / (root)
+
+Click Save — your live site will be available at:
 "# putting-it-together" 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
